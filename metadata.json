@@ -1,0 +1,6 @@
+{
+  "name": "SKILLEARN - Learn. Teach. Play. Grow.",
+  "description": "Peer-to-peer skill learning, sports and social discovery platform. Connect with coaches, players, venues, and learn skills directly from people.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
